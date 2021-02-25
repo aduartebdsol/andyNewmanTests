@@ -1,0 +1,19 @@
+{
+  "name": "andytests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "wat": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aduartebdsol/andyNewmanTests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aduartebdsol/andyNewmanTests/issues"
+  },
+  "homepage": "https://github.com/aduartebdsol/andyNewmanTests#readme"
+}
